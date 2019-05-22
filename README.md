@@ -1,5 +1,6 @@
 # Environment-variable
 About china environment variable
+关于中国环境变量值
 
 Microsoft　                                                      </br>
 微软公司                                                          </br>
